@@ -1,4 +1,4 @@
-# Battery-Level-Indicator
+
 # Battery Level Indicator
 
 ## Overview
